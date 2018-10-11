@@ -45,4 +45,3 @@ p + geom_line() +
 
 ggsave("ppv-buys.png")
 ```
-Plot done
