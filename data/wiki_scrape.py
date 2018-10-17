@@ -69,7 +69,7 @@ wiki_url = 'https://en.wikipedia.org'
 ufc_debut_page = "/wiki/UFC_1"
 more_events = True
 
-with open("ufc_data.csv", "w+", newline="") as file:
+with open("wiki_data.csv", "w+", newline="") as file:
     writer = csv.writer(file)
     url = wiki_url + ufc_debut_page
     while more_events:

@@ -6,7 +6,7 @@ from datetime import datetime
 ### Load as Dataframe
 
 columns = ['Event', 'Promotion', 'Date', 'Venue', 'City', 'Attendance', 'Gate', 'Buyrate']
-wiki_df = pd.read_csv("ufc_data.csv", names=columns)
+wiki_df = pd.read_csv("wiki_data.csv", names=columns)
 
 ### Clean Dates
 
