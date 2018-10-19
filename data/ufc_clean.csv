@@ -324,7 +324,7 @@ Date,Event,Main_Event,Title,Promotion,Fighter_1,Fighter_2,Rematch,Venue,City,Att
 2016-02-06,UFC Fight Night,0,Hendricks vs. Thompson,Ultimate Fighting Championship,Hendricks,Thompson,0,MGM Grand Garden Arena,"Las Vegas, Nevada",7422.0,1435000.0,
 2016-02-21,UFC Fight Night,0,Cowboy vs. Cowboy,Ultimate Fighting Championship,Cowboy,Cowboy,0,Consol Energy Center,"Pittsburgh, Pennsylvania",7330.0,572547.0,
 2016-02-27,UFC Fight Night,0,Silva vs. Bisping,Ultimate Fighting Championship,Silva,Bisping,0,The O2 Arena,"London, England",16734.0,2000000.0,
-2016-03-05,UFC 196,1,McGregor vs. Diaz,Ultimate Fighting Championship,McGregor,Diaz,0,MGM Grand Garden Arena,"Las Vegas, Nevada",14898.0,8197628.0,1317000.0
+2016-03-05,UFC 196,1,McGregor vs. Diaz,Ultimate Fighting Championship,McGregor,Diaz,0,MGM Grand Garden Arena,"Las Vegas, Nevada",14898.0,8100000.0,1317000.0
 2016-03-20,UFC Fight Night,0,Hunt vs. Mir,Ultimate Fighting Championship,Hunt,Mir,0,Brisbane Entertainment Centre,"Brisbane, Australia",9552.0,1000000.0,
 2016-04-10,UFC Fight Night,0,Rothwell vs. dos Santos,Ultimate Fighting Championship,Rothwell,dos Santos,0,Arena Zagreb,"Zagreb, Croatia",13177.0,549000.0,
 2016-04-16,UFC on Fox,0,Teixeira vs. Evans,Ultimate Fighting Championship,Teixeira,Evans,0,Amalie Arena,"Tampa, Florida",11273.0,1057000.0,
@@ -336,7 +336,7 @@ Date,Event,Main_Event,Title,Promotion,Fighter_1,Fighter_2,Rematch,Venue,City,Att
 2016-06-18,UFC Fight Night,0,MacDonald vs. Thompson,Ultimate Fighting Championship,MacDonald,Thompson,0,TD Place Arena,"Ottawa, Ontario, Canada",10490.0,1278250.0,
 2016-07-07,UFC Fight Night,0,Dos Anjos vs. Alvarez,Ultimate Fighting Championship,Dos Anjos,Alvarez,0,MGM Grand Garden Arena,"Las Vegas, Nevada",7760.0,690526.0,
 2016-07-08,The Ultimate Fighter,0,Team Joanna vs. Team Cláudia Finale,Ultimate Fighting Championship,Team Joanna,Team Cláudia,0,MGM Grand Garden Arena,"Las Vegas, Nevada",8115.0,736408.0,
-2016-07-09,UFC 200,1,Tate vs. Nunes,Ultimate Fighting Championship,Tate,Nunes,0,T-Mobile Arena,"Las Vegas, Nevada",18202.0,10746248.0,1009000.0
+2016-07-09,UFC 200,1,Tate vs. Nunes,Ultimate Fighting Championship,Tate,Nunes,0,T-Mobile Arena,"Las Vegas, Nevada",18202.0,10700000.0,1009000.0
 2016-07-13,UFC Fight Night,0,McDonald vs. Lineker,Ultimate Fighting Championship,McDonald,Lineker,0,Denny Sanford Premier Center,"Sioux Falls, South Dakota",5671.0,381945.0,
 2016-07-23,UFC on Fox,0,Holm vs. Shevchenko,Ultimate Fighting Championship,Holm,Shevchenko,0,United Center,"Chicago, Illinois",10287.0,1000000.0,
 2016-07-30,UFC 201,1,Lawler vs. Woodley,Ultimate Fighting Championship,Lawler,Woodley,0,Philips Arena,"Atlanta, Georgia",10240.0,1070000.0,240000.0
@@ -402,7 +402,7 @@ Date,Event,Main_Event,Title,Promotion,Fighter_1,Fighter_2,Rematch,Venue,City,Att
 2018-01-20,UFC 220,1,Miocic vs. Ngannou,Ultimate Fighting Championship,Miocic,Ngannou,0,TD Garden,"Boston, Massachusetts",16015.0,2450000.0,380000.0
 2018-01-27,UFC on Fox,0,Jacaré vs. Brunson 2,Ultimate Fighting Championship,Jacaré,Brunson,1,Spectrum Center,"Charlotte, North Carolina, U.S",10249.0,944202.0,
 2018-02-03,UFC Fight Night,0,Machida vs. Anders,Ultimate Fighting Championship,Machida,Anders,0,Arena Guilherme Paraense,"Belém, Brazil",10144.0,,
-2018-02-11,UFC 221,1,Romero vs. Rockhold,Ultimate Fighting Championship,Romero,Rockhold,0,Perth Arena,"Perth, Australia",12437.0,2810520.0,
+2018-02-11,UFC 221,1,Romero vs. Rockhold,Ultimate Fighting Championship,Romero,Rockhold,0,Perth Arena,"Perth, Australia",12437.0,2810520.0,150000.0
 2018-02-18,UFC Fight Night,0,Cowboy vs. Medeiros,Ultimate Fighting Championship,Cowboy,Medeiros,0,Frank Erwin Center,"Austin, Texas",10502.0,794350.0,
 2018-02-24,UFC on Fox,0,Emmett vs. Stephens,Ultimate Fighting Championship,Emmett,Stephens,0,Amway Center,"Orlando, Florida",10124.0,1064303.0,
 2018-03-03,UFC 222,1,Cyborg vs. Kunitskaya,Ultimate Fighting Championship,Cyborg,Kunitskaya,0,T-Mobile Arena,"Las Vegas, Nevada",12041.0,1367672.0,260000.0
@@ -423,17 +423,17 @@ Date,Event,Main_Event,Title,Promotion,Fighter_1,Fighter_2,Rematch,Venue,City,Att
 2018-07-28,UFC on Fox,0,Alvarez vs. Poirier 2,Ultimate Fighting Championship,Alvarez,Poirier,1,Scotiabank Saddledome,"Calgary, Alberta, Canada",10603.0,,
 2018-08-04,UFC 227,1,Dillashaw vs. Garbrandt 2,Ultimate Fighting Championship,Dillashaw,Garbrandt,1,Staples Center,"Los Angeles, California",17794.0,2850000.0,300000.0
 2018-08-25,UFC Fight Night,0,Gaethje vs. Vick,Ultimate Fighting Championship,Gaethje,Vick,0,Pinnacle Bank Arena,"Lincoln, Nebraska",6409.0,478337.0,
-2018-09-08,UFC 228,1,Woodley vs. Till,Ultimate Fighting Championship,Woodley,Till,0,American Airlines Center,"Dallas, Texas",14073.0,1700000.0,
-2018-09-15,UFC Fight Night,0,Hunt vs. Oliynyk,Ultimate Fighting Championship,Hunt,Oliynyk,0,Olimpiyskiy Stadium,"Moscow, Russia",,,
-2018-09-22,UFC Fight Night,0,Manuwa vs. Santos,Ultimate Fighting Championship,Manuwa,Santos,0,Ginásio do Ibirapuera,"São Paulo, Brazil",,,
-2018-10-06,UFC 229,1,Khabib vs. McGregor,Ultimate Fighting Championship,Khabib,McGregor,0,T-Mobile Arena,"Paradise, Nevada",,,
-2018-10-27,UFC Fight Night,0,Volkan vs. Smith,Ultimate Fighting Championship,Volkan,Smith,0,Moncton Events Centre,"Moncton, New Brunswick, Canada",,,
-2018-11-03,UFC 230,1,,Ultimate Fighting Championship,,,0,Madison Square Garden,"New York City, New York",,,
+2018-09-08,UFC 228,1,Woodley vs. Till,Ultimate Fighting Championship,Woodley,Till,0,American Airlines Center,"Dallas, Texas",14073.0,1700000.0,130000.0
+2018-09-15,UFC Fight Night,0,Hunt vs. Oleinik,Ultimate Fighting Championship,Hunt,Oleinik,0,Olimpiyskiy Stadium,"Moscow, Russia",22603.0,1840000.0,
+2018-09-22,UFC Fight Night,0,Santos vs. Anders,Ultimate Fighting Championship,Santos,Anders,0,Ginásio do Ibirapuera,"São Paulo, Brazil",9485.0,,
+2018-10-06,UFC 229,1,Khabib vs. McGregor,Ultimate Fighting Championship,Khabib,McGregor,0,T-Mobile Arena,"Paradise, Nevada",20034.0,17200000.0,2400000.0
+2018-10-27,UFC Fight Night,0,Volkan vs. Smith,Ultimate Fighting Championship,Volkan,Smith,0,Avenir Centre,"Moncton, New Brunswick, Canada",,,
+2018-11-03,UFC 230,1,Cormier vs. Lewis,Ultimate Fighting Championship,Cormier,Lewis,0,Madison Square Garden,"New York City, New York",,,
 2018-11-10,UFC Fight Night,0,Edgar vs. Korean Zombie,Ultimate Fighting Championship,Edgar,Korean Zombie,0,Pepsi Center,"Denver, Colorado",,,
-2018-11-17,UFC Fight Night,0,Magny vs. Ponzinibbio,Ultimate Fighting Championship,Magny,Ponzinibbio,0,Parque Polideportivo Roca,"Buenos Aires, Argentina",,,
+2018-11-17,UFC Fight Night,0,Magny vs. Ponzinibbio,Ultimate Fighting Championship,Magny,Ponzinibbio,0,Estadio Mary Terán de Weiss,"Buenos Aires, Argentina",,,
 2018-11-25,UFC Fight Night,0,Blaydes vs. Ngannou 2,Ultimate Fighting Championship,Blaydes,Ngannou,1,Cadillac Arena,"Beijing, China",,,
 2018-11-30,The Ultimate Fighter,0,Heavy Hitters Finale,Ultimate Fighting Championship,,,0,Pearl Theatre at Palms Casino Resort,"Las Vegas, Nevada, United States",,,
 2018-12-02,UFC Fight Night,0,dos Santos vs. Tuivasa,Ultimate Fighting Championship,dos Santos,Tuivasa,0,Adelaide Entertainment Centre,"Adelaide, Australia",,,
-2018-12-08,UFC 231,1,,Ultimate Fighting Championship,,,0,Scotiabank Arena,"Toronto, Ontario, Canada",,,
-2018-12-15,UFC on Fox 31,0,,Ultimate Fighting Championship,,,0,Fiserv Forum,"Milwaukee, Wisconsin",,,
-2018-12-29,UFC 232,1,,Ultimate Fighting Championship,,,0,T-Mobile Arena,"Paradise, Nevada",,,
+2018-12-08,UFC 231,1,Holloway vs. Ortega,Ultimate Fighting Championship,Holloway,Ortega,0,Scotiabank Arena,"Toronto, Ontario, Canada",,,
+2018-12-15,UFC on Fox,0,Lee vs. Iaquinta 2,Ultimate Fighting Championship,Lee,Iaquinta,1,Fiserv Forum,"Milwaukee, Wisconsin",,,
+2018-12-29,UFC 232,1,Jones vs. Gustafsson 2,Ultimate Fighting Championship,Jones,Gustafsson,1,T-Mobile Arena,"Paradise, Nevada",,,

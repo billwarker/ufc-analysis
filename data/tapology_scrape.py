@@ -33,7 +33,7 @@ class Event:
 
 url = 'https://www.tapology.com/search/mma-event-figures/ppv-pay-per-view-buys-buyrate'
 
-with open("tapology_data.csv", "w+", newline="") as file:
+with open("data/tapology_data.csv", "w+", newline="") as file:
     writer = csv.writer(file)
     writer.writerow(['Event', 'Title', 'Date', 'Buyrate'])
     table_rows = get_table_rows(url)

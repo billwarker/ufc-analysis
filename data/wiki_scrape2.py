@@ -29,16 +29,6 @@ def get_event_data(infobox_rows):
     
     return event_data
 
-def get_next_event_page(infobox_rows):
-    try:
-        next_event_page = infobox_rows[-1].select("td")[2].select_one('a')['href']
-        return next_event_page
-    except TypeError:
-        global more_events
-        more_events = False
-        return ''
-        
-
 class Event:
     def __init__(self, event_data):
         self.title = event_data["Title"]
@@ -66,21 +56,16 @@ class Event:
     
     
 wiki_url = 'https://en.wikipedia.org'
-ufc_debut_page = "/wiki/UFC_1"
+ufc_page = "/wiki/UFC_"
+event_nums = range(1, 233)
 more_events = True
 
-with open("data/wiki_data.csv", "w+", newline="") as file:
+with open("data/wiki_data2.csv", "w+", newline="") as file:
     writer = csv.writer(file)
-    url = wiki_url + ufc_debut_page
-    while more_events:
+    for num in event_nums:
+        url = wiki_url + ufc_page + str(num)
         infobox_rows = get_event_infobox_rows(url)
         event_data = get_event_data(infobox_rows)
         event = Event(event_data)
         print(event.title)
         writer.writerow(event.return_data())
-        
-        next_event_page = get_next_event_page(infobox_rows)
-        if more_events:
-            url = wiki_url + next_event_page
-        else:
-            break

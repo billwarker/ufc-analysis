@@ -1,0 +1,231 @@
+Date,Event,Title,Promotion,Fighter_1,Fighter_2,Rematch,Venue,City,Attendance,Gate,Buyrate
+1993-11-12,UFC 1,The Beginning,Ultimate Fighting Championship,,,0,McNichols Sports Arena,"Denver, Colorado",7800.0,,86000.0
+1994-03-11,UFC 2,No Way Out,Ultimate Fighting Championship,,,0,Mammoth Gardens,"Denver, Colorado",2000.0,,300000.0
+1994-09-09,UFC 3,The American Dream,Ultimate Fighting Championship,,,0,Grady Cole Center,"Charlotte, North Carolina",3000.0,,90000.0
+1994-12-16,UFC 4,Revenge of the Warriors,Ultimate Fighting Championship,,,0,Expo Square Pavilion,"Tulsa, Oklahoma",5857.0,,120000.0
+1995-04-07,UFC 5,Gracie vs. Shamrock 2,Ultimate Fighting Championship,Gracie,Shamrock,1,Independence Arena,"Charlotte, North Carolina",6000.0,,260000.0
+1995-07-14,UFC 6,Shamrock vs. Severn,Ultimate Fighting Championship,Shamrock,Severn,0,Casper Events Center,"Casper, Wyoming",2700.0,,240000.0
+1995-09-08,UFC 7,,Ultimate Fighting Championship,,,0,Memorial Auditorium,"Buffalo, New York",9000.0,,190000.0
+1996-02-16,UFC 8,Shamrock vs. Leopoldo,Ultimate Fighting Championship,Shamrock,Leopoldo,0,Ruben Rodriguez Coliseum,"Bayamón, Puerto Rico",13000.0,,300000.0
+1996-05-17,UFC 9,Shamrock vs. Severn 2,Ultimate Fighting Championship,Shamrock,Severn,1,Cobo Arena,"Detroit, Michigan",10000.0,,141000.0
+1996-07-12,UFC 10,The Tournament,Ultimate Fighting Championship,,,0,Fairgrounds Arena,"Birmingham, Alabama",4300.0,,96000.0
+1996-09-20,UFC 11,The Proving Ground,Ultimate Fighting Championship,,,0,Augusta Civic Center,"Augusta, Georgia",4500.0,,92000.0
+1997-02-07,UFC 12,Judgement Day,Ultimate Fighting Championship,,,0,Dothan Civic Center,"Dothan, Alabama",3100.0,,122000.0
+1997-05-30,UFC 13,The Ultimate Force,Ultimate Fighting Championship,,,0,Augusta Civic Center,"Augusta, Georgia",5100.0,,
+1997-07-27,UFC 14,Showdown,Ultimate Fighting Championship,,,0,Boutwell Auditorium,"Birmingham, Alabama",5000.0,,
+1997-10-17,UFC 15,Collision Course,Ultimate Fighting Championship,,,0,Casino Magic Bay St. Louis,"Bay St. Louis, Mississippi",,,
+1998-03-13,UFC 16,Battle in the Bayou,Ultimate Fighting Championship,,,0,Pontchartrain Center,"New Orleans, Louisiana",4600.0,,
+1998-05-15,UFC 17,Redemption,Ultimate Fighting Championship,,,0,Mobile Civic Center,"Mobile, Alabama",,,
+1999-01-08,UFC 18,The Road to the Heavyweight Title,Ultimate Fighting Championship,,,0,Pontchartrain Center,"New Orleans, Louisiana",,,
+1999-03-05,UFC 19,Ultimate Young Guns,Ultimate Fighting Championship,,,0,Casino Magic Bay St. Louis,"Bay St. Louis, Mississippi",,,
+1999-05-07,UFC 20,Battle for the Gold,Ultimate Fighting Championship,,,0,Boutwell Auditorium,"Birmingham, Alabama",,,
+1999-07-16,UFC 21,Return of the Champions,Ultimate Fighting Championship,,,0,Five Seasons Events Center,"Cedar Rapids, Iowa",,,
+1999-09-24,UFC 22,Only One Can be Champion,Ultimate Fighting Championship,,,0,Lake Charles Civic Center,"Lake Charles, Louisiana",,,
+1999-11-19,UFC 23,Ultimate Japan 2,Ultimate Fighting Championship,,,1,Tokyo Bay NK Hall,"Tokyo, Japan",,,
+2000-03-10,UFC 24,First Defense,Ultimate Fighting Championship,,,0,Lake Charles Civic Center,"Lake Charles, Louisiana",,,
+2000-04-14,UFC 25,Ultimate Japan 3,Ultimate Fighting Championship,,,1,Yoyogi National Gymnasium,"Tokyo, Japan",,,
+2000-06-09,UFC 26,Ultimate Field of Dreams,Ultimate Fighting Championship,,,0,Five Seasons Events Center,"Cedar Rapids, Iowa",,,
+2000-09-22,UFC 27,Ultimate Bad Boyz,Ultimate Fighting Championship,,,0,Lakefront Arena,"New Orleans, Louisiana",,,
+2000-11-17,UFC 28,High Stakes,Ultimate Fighting Championship,,,0,Trump Taj Mahal,"Atlantic City, New Jersey",,,
+2000-12-16,UFC 29,Defense of the Belts,Ultimate Fighting Championship,,,0,Differ Ariake Arena,"Tokyo, Japan",1414.0,,
+2001-02-23,UFC 30,Battle on the Boardwalk,Ultimate Fighting Championship,,,0,Trump Taj Mahal,"Atlantic City, New Jersey",,,
+2001-05-04,UFC 31,Locked and Loaded,Ultimate Fighting Championship,,,0,Trump Taj Mahal,"Atlantic City, New Jersey",,,
+2001-06-29,UFC 32,Showdown in the Meadowlands,Ultimate Fighting Championship,,,0,Continental Airlines Arena,"East Rutherford, New Jersey",12500.0,,
+2001-09-28,UFC 33,Victory in Vegas,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",9500.0,816660.0,75000.0
+2001-11-02,UFC 34,High Voltage,Ultimate Fighting Championship,,,0,MGM Grand Garden Arena,"Las Vegas, Nevada",9000.0,502550.0,65000.0
+2002-01-11,UFC 35,Throwdown,Ultimate Fighting Championship,,,0,Mohegan Sun Arena,"Uncasville, Connecticut",9600.0,,35000.0
+2002-03-22,UFC 36,Worlds Collide,Ultimate Fighting Championship,,,0,MGM Grand Arena,"Las Vegas, Nevada",10000.0,898850.0,55000.0
+2002-05-10,UFC 37,High Impact,Ultimate Fighting Championship,,,0,CenturyTel Center,"Bossier City, Louisiana",7200.0,,50000.0
+2002-07-13,UFC 38,Brawl at the Hall,Ultimate Fighting Championship,,,0,Royal Albert Hall,"London, United Kingdom",3800.0,,45000.0
+2002-09-27,UFC 39,The Warriors Return,Ultimate Fighting Championship,,,0,Mohegan Sun Arena,"Uncasville, Connecticut",7800.0,,45000.0
+2002-11-22,UFC 40,Vendetta,Ultimate Fighting Championship,,,0,MGM Grand Arena,"Las Vegas, Nevada",13265.0,1540000.0,100000.0
+2003-02-28,UFC 41,Onslaught,Ultimate Fighting Championship,,,0,Boardwalk Hall,"Atlantic City, New Jersey",13401.0,,60000.0
+2003-04-25,UFC 42,Sudden Impact,Ultimate Fighting Championship,,,0,American Airlines Arena,"Miami, Florida",6700.0,,35000.0
+2003-06-06,UFC 43,Meltdown,Ultimate Fighting Championship,,,0,Thomas and Mack Center,"Las Vegas, Nevada",9800.0,645140.0,49000.0
+2003-09-26,UFC 44,Undisputed,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10400.0,127985.0,94000.0
+2003-11-21,UFC 45,Revolution,Ultimate Fighting Championship,,,0,Mohegan Sun Arena,"Uncasville, Connecticut",9200.0,,40000.0
+2004-01-31,UFC 46,Supernatural,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10700.0,1377000.0,80000.0
+2004-04-02,UFC 47,It’s On!,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",11437.0,1444020.0,105000.0
+2004-06-19,UFC 48,Payback,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10000.0,901655.0,110000.0
+2004-08-21,UFC 49,Unfinished Business,Ultimate Fighting Championship,,,0,MGM Grand Arena,"Las Vegas, Nevada",12100.0,1293035.0,80000.0
+2004-10-22,UFC 50,The War of '04,Ultimate Fighting Championship,,,0,Trump Plaza,"Atlantic City, New Jersey",9000.0,,40000.0
+2005-02-05,UFC 51,Super Saturday,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",11072.0,1493000.0,105000.0
+2005-04-16,UFC 52,Couture vs. Liddell,Ultimate Fighting Championship,Couture,Liddell,0,MGM Grand Arena,"Las Vegas, Nevada",14562.0,2575450.0,280000.0
+2005-06-04,UFC 53,Heavy Hitters,Ultimate Fighting Championship,,,0,Boardwalk Hall,"Atlantic City, New Jersey",12000.0,1100000.0,90000.0
+2005-08-20,UFC 54,Boiling Point,Ultimate Fighting Championship,,,0,MGM Grand Arena,"Las Vegas, Nevada",13520.0,2336000.0,150000.0
+2005-10-07,UFC 55,Fury,Ultimate Fighting Championship,,,0,Mohegan Sun Arena,"Uncasville, Connecticut",8000.0,,125000.0
+2005-11-19,UFC 56,Full Force,Ultimate Fighting Championship,,,0,MGM Grand Arena,"Las Vegas, Nevada",12000.0,1986000.0,200000.0
+2006-02-04,UFC 57,Liddell vs. Couture 3,Ultimate Fighting Championship,Liddell,Couture,1,Mandalay Bay Events Center,"Las Vegas, Nevada",11000.0,3382400.0,400000.0
+2006-03-04,UFC 58,USA vs. Canada,Ultimate Fighting Championship,USA,Canada,0,Mandalay Bay Events Center,"Las Vegas, Nevada",9569.0,1758450.0,300000.0
+2006-04-15,UFC 59,Reality Check,Ultimate Fighting Championship,,,0,Arrowhead Pond,"Anaheim, California",13814.0,2191450.0,425000.0
+2006-05-27,UFC 60,Hughes vs. Gracie,Ultimate Fighting Championship,Hughes,Gracie,0,Staples Center,"Los Angeles, California",14802.0,2900090.0,620000.0
+2006-07-08,UFC 61,Bitter Rivals,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",11167.0,3350775.0,775000.0
+2006-08-26,UFC 62,Liddell vs. Sobral,Ultimate Fighting Championship,Liddell,Sobral,0,Mandalay Bay Events Center,"Las Vegas, Nevada",9859.0,3040880.0,500000.0
+2006-09-23,UFC 63,Hughes vs. Penn,Ultimate Fighting Championship,Hughes,Penn,0,Arrowhead Pond,"Anaheim, California",12604.0,1582370.0,400000.0
+2006-10-14,UFC 64,Unstoppable,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10173.0,1790490.0,300000.0
+2006-11-18,UFC 65,Bad Intentions,Ultimate Fighting Championship,,,0,ARCO Arena,"Sacramento, California",14666.0,2138020.0,500000.0
+2006-12-30,UFC 66,Liddell vs. Ortiz,Ultimate Fighting Championship,Liddell,Ortiz,0,MGM Grand Garden Arena,"Las Vegas, Nevada",13761.0,5397300.0,1050000.0
+2007-02-03,UFC 67,All or Nothing,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10227.0,2767130.0,350000.0
+2007-03-03,UFC 68,The Uprising,Ultimate Fighting Championship,,,0,Nationwide Arena,"Columbus, Ohio",19049.0,3014000.0,534000.0
+2007-04-07,UFC 69,Shootout,Ultimate Fighting Championship,,,0,Toyota Center,"Houston, Texas",15269.0,2817200.0,400000.0
+2007-04-21,UFC 70,Nations Collide,Ultimate Fighting Championship,,,0,Manchester Evening News Arena,"Manchester, United Kingdom",15114.0,2628472.0,
+2007-05-26,UFC 71,Liddell vs. Jackson,Ultimate Fighting Championship,Liddell,Jackson,0,MGM Grand Garden Arena,"Las Vegas, Nevada",14728.0,4304000.0,675000.0
+2007-06-16,UFC 72,Victory,Ultimate Fighting Championship,,,0,The Odyssey,"Belfast, Northern Ireland, United Kingdom.",8000.0,,200000.0
+2007-07-07,UFC 73,Stacked,Ultimate Fighting Championship,,,0,ARCO Arena,"Sacramento, California",13183.0,1551920.0,425000.0
+2007-08-25,UFC 74,Respect,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",11118.0,3307000.0,520000.0
+2007-09-08,UFC 75,Champion vs. Champion,Ultimate Fighting Championship,Champion,Champion,0,The O2 Arena,"London, United Kingdom",16235.0,,
+2007-09-22,UFC 76,Knockout,Ultimate Fighting Championship,,,0,Honda Center,"Anaheim, California",13770.0,1985000.0,475000.0
+2007-10-20,UFC 77,Hostile Territory,Ultimate Fighting Championship,,,0,U.S. Bank Arena,"Cincinnati, Ohio",16054.0,2540000.0,325000.0
+2007-11-17,UFC 78,Validation,Ultimate Fighting Championship,,,0,Prudential Center,"Newark, New Jersey",14071.0,2100000.0,400000.0
+2007-12-29,UFC 79,Nemesis,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",11075.0,4994000.0,650000.0
+2008-01-19,UFC 80,Rapid Fire,Ultimate Fighting Championship,,,0,Metro Radio Arena,"Newcastle, United Kingdom",8412.0,1250000.0,225000.0
+2008-02-02,UFC 81,Breaking Point,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10583.0,2437890.0,600000.0
+2008-03-01,UFC 82,Pride of a Champion,Ultimate Fighting Championship,,,0,Nationwide Arena,"Columbus, Ohio",16431.0,2200000.0,325000.0
+2008-04-19,UFC 83,Serra vs. St-Pierre 2,Ultimate Fighting Championship,Serra,St-Pierre,1,Bell Centre,"Montreal, Quebec, Canada",21390.0,5100000.0,530000.0
+2008-05-24,UFC 84,Ill Will,Ultimate Fighting Championship,,,0,MGM Grand Garden Arena,"Las Vegas, Nevada",14773.0,3732000.0,475000.0
+2008-06-07,UFC 85,Bedlam,Ultimate Fighting Championship,,,0,The O2 Arena,"London, United Kingdom",15327.0,,215000.0
+2008-07-05,UFC 86,Jackson vs. Griffin,Ultimate Fighting Championship,Jackson,Griffin,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10990.0,3350730.0,540000.0
+2008-08-09,UFC 87,Seek and Destroy,Ultimate Fighting Championship,,,0,Target Center,"Minneapolis, Minnesota",15087.0,2252000.0,625000.0
+2008-09-06,UFC 88,Breakthrough,Ultimate Fighting Championship,,,0,Philips Arena,"Atlanta, Georgia",14736.0,2600000.0,480000.0
+2008-10-18,UFC 89,Bisping vs. Leben,Ultimate Fighting Championship,Bisping,Leben,0,National Indoor Arena,"Birmingham, United Kingdom",9515.0,,
+2008-10-25,UFC 90,Silva vs. Côté,Ultimate Fighting Championship,Silva,Côté,0,Allstate Arena,"Rosemont, Illinois",15359.0,2850000.0,300000.0
+2008-11-15,UFC 91,Couture vs. Lesnar,Ultimate Fighting Championship,Couture,Lesnar,0,MGM Grand Garden Arena,"Las Vegas, Nevada",14272.0,4815675.0,1010000.0
+2008-12-27,UFC 92,The Ultimate 2008,Ultimate Fighting Championship,,,1,MGM Grand Garden Arena,"Las Vegas, Nevada",14103.0,3468440.0,1000000.0
+2009-01-17,UFC 93,Franklin vs. Henderson,Ultimate Fighting Championship,Franklin,Henderson,0,The O2,"Dublin, Ireland",9369.0,1300000.0,350000.0
+2009-01-31,UFC 94,St-Pierre vs. Penn 2,Ultimate Fighting Championship,St-Pierre,Penn,1,MGM Grand Garden Arena[1],"Las Vegas, Nevada",14885.0,4290020.0,920000.0
+2009-02-21,UFC 95,Sanchez vs. Stevenson,Ultimate Fighting Championship,Sanchez,Stevenson,0,The O2 Arena,"London, United Kingdom",13268.0,1000000.0,
+2009-03-07,UFC 96,Jackson vs. Jardine,Ultimate Fighting Championship,Jackson,Jardine,0,Nationwide Arena,"Columbus, Ohio",17033.0,1800000.0,350000.0
+2009-04-18,UFC 97,Redemption,Ultimate Fighting Championship,,,0,Bell Centre,"Montreal, Quebec, Canada",21451.0,4900000.0,650000.0
+2009-05-23,UFC 98,Evans vs. Machida,Ultimate Fighting Championship,Evans,Machida,0,MGM Grand Garden Arena,"Las Vegas, Nevada",12606.0,3257350.0,635000.0
+2009-06-13,UFC 99,The Comeback,Ultimate Fighting Championship,,,0,Lanxess Arena,"Cologne, Germany",12854.0,1300000.0,360000.0
+2009-07-11,UFC 100,,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10871.0,5101740.0,1600000.0
+2009-08-08,UFC 101,Declaration,Ultimate Fighting Championship,,,0,Wachovia Center,"Philadelphia, Pennsylvania",17411.0,3550000.0,850000.0
+2009-08-29,UFC 102,Couture vs. Nogueira,Ultimate Fighting Championship,Couture,Nogueira,0,Rose Garden,"Portland, Oregon",16088.0,1920000.0,435000.0
+2009-09-19,UFC 103,Franklin vs. Belfort,Ultimate Fighting Championship,Franklin,Belfort,0,American Airlines Center,"Dallas, Texas",17428.0,2400000.0,375000.0
+2009-10-24,UFC 104,Machida vs. Shogun,Ultimate Fighting Championship,Machida,Shogun,0,Staples Center,"Los Angeles, California",14892.0,1913093.0,500000.0
+2009-11-14,UFC 105,Couture vs. Vera,Ultimate Fighting Championship,Couture,Vera,0,Evening News Arena,"Manchester, United Kingdom",16693.0,2000000.0,
+2009-11-21,UFC 106,Ortiz vs. Griffin 2,Ultimate Fighting Championship,Ortiz,Griffin,1,Mandalay Bay Events Center,"Las Vegas, Nevada",10529.0,3003250.0,375000.0
+2009-12-12,UFC 107,Penn vs. Sanchez,Ultimate Fighting Championship,Penn,Sanchez,0,FedExForum,"Memphis, Tennessee",13896.0,1500000.0,620000.0
+2010-01-02,UFC 108,Evans vs. Silva,Ultimate Fighting Championship,Evans,Silva,0,MGM Grand Garden Arena,"Las Vegas, Nevada",13529.0,1969670.0,300000.0
+2010-02-06,UFC 109,Relentless,Ultimate Fighting Championship,,,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10753.0,2273000.0,275000.0
+2010-02-21,UFC 110,Nogueira vs. Velasquez,Ultimate Fighting Championship,Nogueira,Velasquez,0,Acer Arena,"Sydney, Australia",17431.0,2500000.0,240000.0
+2010-03-27,UFC 111,St-Pierre vs. Hardy,Ultimate Fighting Championship,St-Pierre,Hardy,0,Prudential Center,"Newark, New Jersey",17000.0,4000000.0,770000.0
+2010-04-10,UFC 112,Invincible,Ultimate Fighting Championship,,,0,"Concert Arena, Yas Island","Abu Dhabi, United Arab Emirates",11008.0,3500000.0,500000.0
+2010-05-08,UFC 113,Machida vs. Shogun 2,Ultimate Fighting Championship,Machida,Shogun,1,Bell Centre,"Montreal, Quebec, Canada",17647.0,3270000.0,520000.0
+2010-05-29,UFC 114,Rampage vs. Evans,Ultimate Fighting Championship,Rampage,Evans,0,MGM Grand Garden Arena,"Las Vegas, Nevada",14996.0,3895000.0,1050000.0
+2010-06-12,UFC 115,Liddell vs. Franklin,Ultimate Fighting Championship,Liddell,Franklin,0,General Motors Place,"Vancouver, British Columbia, Canada",17669.0,4221787.0,520000.0
+2010-07-03,UFC 116,Lesnar vs. Carwin,Ultimate Fighting Championship,Lesnar,Carwin,0,MGM Grand Garden Arena,"Las Vegas, Nevada",12740.0,2053990.0,1160000.0
+2010-08-07,UFC 117,Silva vs. Sonnen,Ultimate Fighting Championship,Silva,Sonnen,0,Oracle Arena,"Oakland, California",12971.0,1560000.0,600000.0
+2010-08-28,UFC 118,Edgar vs. Penn 2,Ultimate Fighting Championship,Edgar,Penn,1,TD Garden,"Boston, Massachusetts",14168.0,2800000.0,570000.0
+2010-09-25,UFC 119,Mir vs. Cro Cop,Ultimate Fighting Championship,Mir,Cro Cop,0,Conseco Fieldhouse,"Indianapolis, Indiana",15811.0,1600000.0,295000.0
+2010-10-16,UFC 120,Bisping vs. Akiyama,Ultimate Fighting Championship,Bisping,Akiyama,0,O2 Arena,"London, United Kingdom",17133.0,2560000.0,
+2010-10-23,UFC 121,Lesnar vs. Velasquez,Ultimate Fighting Championship,Lesnar,Velasquez,0,Honda Center,"Anaheim, California",14856.0,2237000.0,1050000.0
+2010-11-13,UFC 122,Marquardt vs. Okami,Ultimate Fighting Championship,Marquardt,Okami,0,König Pilsener Arena,"Oberhausen, Germany",8421.0,600000.0,
+2010-11-20,UFC 123,Rampage vs. Machida,Ultimate Fighting Championship,Rampage,Machida,0,The Palace of Auburn Hills,"Auburn Hills, Michigan",16404.0,2100000.0,500000.0
+2010-12-11,UFC 124,St-Pierre vs. Koscheck 2,Ultimate Fighting Championship,St-Pierre,Koscheck,1,Bell Centre,"Montreal, Quebec, Canada",23152.0,4600000.0,800000.0
+2011-01-01,UFC 125,Resolution,Ultimate Fighting Championship,,,0,MGM Grand Garden Arena,"Las Vegas, Nevada",12874.0,2174780.0,270000.0
+2011-02-05,UFC 126,Silva vs. Belfort,Ultimate Fighting Championship,Silva,Belfort,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10893.0,3600000.0,725000.0
+2011-02-27,UFC 127,Penn vs. Fitch,Ultimate Fighting Championship,Penn,Fitch,0,Acer Arena,"Sydney, Australia",18186.0,3500000.0,260000.0
+2011-03-19,UFC 128,Shogun vs Jones,Ultimate Fighting Championship,Shogun,Jones,0,Prudential Center,"Newark, New Jersey",12619.0,2140000.0,490000.0
+2011-04-30,UFC 129,St-Pierre vs. Shields,Ultimate Fighting Championship,St-Pierre,Shields,0,Rogers Centre,"Toronto, Ontario, Canada",55724.0,12075000.0,800000.0
+2011-05-28,UFC 130,Rampage vs. Hamill,Ultimate Fighting Championship,Rampage,Hamill,0,MGM Grand Garden Arena,"Las Vegas, Nevada",12753.0,2580000.0,325000.0
+2011-06-11,UFC 131,dos Santos vs. Carwin,Ultimate Fighting Championship,dos Santos,Carwin,0,Rogers Arena,"Vancouver, British Columbia, Canada",14685.0,2800000.0,330000.0
+2011-07-02,UFC 132,Cruz vs. Faber 2,Ultimate Fighting Championship,Cruz,Faber,1,MGM Grand Garden Arena,"Las Vegas, Nevada",13109.0,2304500.0,350000.0
+2011-08-06,UFC 133,Evans vs. Ortiz,Ultimate Fighting Championship,Evans,Ortiz,0,Wells Fargo Center,"Philadelphia, Pennsylvania",11583.0,1500000.0,310000.0
+2011-08-27,UFC 134,Silva vs. Okami 2,Ultimate Fighting Championship,Silva,Okami,1,HSBC Arena,"Rio de Janeiro, Brazil",14000.0,,335000.0
+2011-09-24,UFC 135,Jones vs. Rampage,Ultimate Fighting Championship,Jones,Rampage,0,Pepsi Center,"Denver, Colorado",16344.0,2089575.0,520000.0
+2011-10-08,UFC 136,Edgar vs. Maynard III,Ultimate Fighting Championship,Edgar,Maynard,1,Toyota Center,"Houston, Texas",16164.0,2230000.0,225000.0
+2011-10-29,UFC 137,Penn vs. Diaz,Ultimate Fighting Championship,Penn,Diaz,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10313.0,3900650.0,280000.0
+2011-11-05,UFC 138,Leben vs. Muñoz,Ultimate Fighting Championship,Leben,Muñoz,0,LG Arena,"Birmingham, United Kingdom",10823.0,1500000.0,
+2011-11-19,UFC 139,Shogun vs. Henderson,Ultimate Fighting Championship,Shogun,Henderson,0,HP Pavilion,"San Jose, California",13832.0,1268000.0,290000.0
+2011-12-10,UFC 140,Jones vs. Machida,Ultimate Fighting Championship,Jones,Machida,0,Air Canada Centre,"Toronto, Ontario, Canada",18303.0,3900000.0,480000.0
+2011-12-30,UFC 141,Lesnar vs. Overeem,Ultimate Fighting Championship,Lesnar,Overeem,0,MGM Grand Garden Arena,"Las Vegas, Nevada",13793.0,3100000.0,780000.0
+2012-01-14,UFC 142,Aldo vs. Mendes,Ultimate Fighting Championship,Aldo,Mendes,0,HSBC Arena,"Rio de Janeiro, Brazil",10605.0,,235000.0
+2012-02-04,UFC 143,Diaz vs. Condit,Ultimate Fighting Championship,Diaz,Condit,0,Mandalay Bay Events Center,"Las Vegas, Nevada",9015.0,2400000.0,400000.0
+2012-02-26,UFC 144,Edgar vs. Henderson,Ultimate Fighting Championship,Edgar,Henderson,0,Saitama Super Arena,"Saitama, Japan",21000.0,,375000.0
+2012-04-21,UFC 145,Jones vs. Evans,Ultimate Fighting Championship,Jones,Evans,0,Philips Arena,"Atlanta, Georgia",15545.0,2200000.0,700000.0
+2012-05-26,UFC 146,dos Santos vs. Mir,Ultimate Fighting Championship,dos Santos,Mir,0,MGM Grand Garden Arena,"Las Vegas, Nevada",14674.0,3428775.0,560000.0
+2012-06-23,UFC 147,Silva vs. Franklin II,Ultimate Fighting Championship,Silva,Franklin,1,Mineirinho Arena,"Belo Horizonte, Brazil",16643.0,,140000.0
+2012-07-07,UFC 148,Silva vs. Sonnen II,Ultimate Fighting Championship,Silva,Sonnen,1,MGM Grand Garden Arena,"Las Vegas, Nevada",15104.0,6901655.0,925000.0
+2012-07-21,UFC 149,Faber vs. Barão,Ultimate Fighting Championship,Faber,Barão,0,Scotiabank Saddledome,"Calgary, Alberta, Canada",16089.0,4100000.0,235000.0
+2012-08-11,UFC 150,Henderson vs. Edgar II,Ultimate Fighting Championship,Henderson,Edgar,1,Pepsi Center,"Denver, Colorado",13027.0,619955.0,190000.0
+2012-09-22,UFC 152,Jones vs. Belfort,Ultimate Fighting Championship,Jones,Belfort,0,Air Canada Centre,"Toronto, Ontario, Canada",16800.0,1921000.0,450000.0
+2012-10-13,UFC 153,Silva vs. Bonnar,Ultimate Fighting Championship,Silva,Bonnar,0,HSBC Arena,"Rio de Janeiro, Brazil",16844.0,,410000.0
+2012-11-17,UFC 154,St-Pierre vs. Condit,Ultimate Fighting Championship,St-Pierre,Condit,0,Bell Centre,"Montreal, Quebec, Canada",17249.0,3143000.0,700000.0
+2012-12-29,UFC 155,dos Santos vs. Velasquez 2,Ultimate Fighting Championship,dos Santos,Velasquez,1,MGM Grand Garden Arena,"Las Vegas, Nevada",13561.0,3286025.0,590000.0
+2013-02-02,UFC 156,Aldo vs. Edgar,Ultimate Fighting Championship,Aldo,Edgar,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10275.0,2437150.0,330000.0
+2013-02-23,UFC 157,Rousey vs. Carmouche,Ultimate Fighting Championship,Rousey,Carmouche,0,Honda Center,"Anaheim, California",13257.0,,450000.0
+2013-03-16,UFC 158,St-Pierre vs. Diaz,Ultimate Fighting Championship,St-Pierre,Diaz,0,Bell Centre,"Montreal, Quebec, Canada",16523.0,3630166.0,950000.0
+2013-04-27,UFC 159,Jones vs. Sonnen,Ultimate Fighting Championship,Jones,Sonnen,0,Prudential Center,"Newark, New Jersey",15227.0,2700000.0,530000.0
+2013-05-25,UFC 160,Velasquez vs. Bigfoot 2,Ultimate Fighting Championship,Velasquez,Bigfoot,1,MGM Grand Garden Arena,"Las Vegas, Nevada",12380.0,,380000.0
+2013-06-15,UFC 161,Evans vs. Henderson,Ultimate Fighting Championship,Evans,Henderson,0,MTS Centre,"Winnipeg, Manitoba, Canada",14754.0,,140000.0
+2013-07-06,UFC 162,Silva vs. Weidman,Ultimate Fighting Championship,Silva,Weidman,0,MGM Grand Garden Arena,"Las Vegas, Nevada",12964.0,,550000.0
+2013-08-03,UFC 163,Aldo vs. Korean Zombie,Ultimate Fighting Championship,Aldo,Korean Zombie,0,HSBC Arena,"Rio De Janeiro, Brazil",13873.0,,180000.0
+2013-08-31,UFC 164,Henderson vs. Pettis II,Ultimate Fighting Championship,Henderson,Pettis,1,BMO Harris Bradley Center,"Milwaukee, Wisconsin",9178.0,907116.0,270000.0
+2013-09-21,UFC 165,Jones vs. Gustafsson,Ultimate Fighting Championship,Jones,Gustafsson,0,Air Canada Centre,"Toronto, Ontario, Canada",15504.0,,310000.0
+2013-10-19,UFC 166,Velasquez vs. dos Santos III,Ultimate Fighting Championship,Velasquez,dos Santos,1,Toyota Center,"Houston, Texas",17238.0,,330000.0
+2013-11-16,UFC 167,St-Pierre vs. Hendricks,Ultimate Fighting Championship,St-Pierre,Hendricks,0,MGM Grand Garden Arena,"Las Vegas, Nevada",14856.0,5759350.0,630000.0
+2013-12-28,UFC 168,Weidman vs. Silva 2,Ultimate Fighting Championship,Weidman,Silva,1,MGM Grand Garden Arena,"Las Vegas, Nevada",15650.0,6238792.0,1025000.0
+2014-02-01,UFC 169,Barão vs. Faber II,Ultimate Fighting Championship,Barão,Faber,1,Prudential Center,"Newark, New Jersey",14308.0,,230000.0
+2014-02-22,UFC 170,Rousey vs. McMann,Ultimate Fighting Championship,Rousey,McMann,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10217.0,1558870.0,340000.0
+2014-03-15,UFC 171,Hendricks vs. Lawler,Ultimate Fighting Championship,Hendricks,Lawler,0,American Airlines Center,"Dallas, Texas",19324.0,2600000.0,300000.0
+2014-04-26,UFC 172,Jones vs. Teixeira,Ultimate Fighting Championship,Jones,Teixeira,0,Baltimore Arena,"Baltimore, Maryland",13485.0,,350000.0
+2014-05-24,UFC 173,Barão vs. Dillashaw,Ultimate Fighting Championship,Barão,Dillashaw,0,MGM Grand Garden Arena,"Las Vegas, Nevada",11036.0,,215000.0
+2014-06-14,UFC 174,Johnson vs. Bagautinov,Ultimate Fighting Championship,Johnson,Bagautinov,0,Rogers Arena,"Vancouver, British Columbia, Canada",13506.0,,115000.0
+2014-07-05,UFC 175,Weidman vs. Machida,Ultimate Fighting Championship,Weidman,Machida,0,Mandalay Bay Events Center,"Las Vegas, Nevada",10088.0,4400000.0,545000.0
+2014-08-30,UFC 177,Dillashaw vs. Soto,Ultimate Fighting Championship,Dillashaw,Soto,0,Sleep Train Arena,"Sacramento, California",11100.0,700000.0,125000.0
+2014-09-27,UFC 178,Johnson vs. Cariaso,Ultimate Fighting Championship,Johnson,Cariaso,0,MGM Grand Garden Arena,"Las Vegas, Nevada",10544.0,,205000.0
+2014-10-25,UFC 179,Aldo vs. Mendes 2,Ultimate Fighting Championship,Aldo,Mendes,1,Ginásio do Maracanãzinho,"Rio de Janeiro, Brazil",11415.0,,180000.0
+2014-11-15,UFC 180,Werdum vs. Hunt,Ultimate Fighting Championship,Werdum,Hunt,0,Arena Ciudad de México,"Mexico City, Mexico",21000.0,,185000.0
+2014-12-06,UFC 181,Hendricks vs. Lawler II,Ultimate Fighting Championship,Hendricks,Lawler,1,Mandalay Bay Events Center,"Las Vegas, Nevada",9617.0,,400000.0
+2015-01-03,UFC 182,Jones vs. Cormier,Ultimate Fighting Championship,Jones,Cormier,0,MGM Grand Garden Arena,"Las Vegas, Nevada",11575.0,3700000.0,800000.0
+2015-01-31,UFC 183,Silva vs. Diaz,Ultimate Fighting Championship,Silva,Diaz,0,MGM Grand Garden Arena,"Las Vegas, Nevada",13114.0,4500000.0,650000.0
+2015-02-28,UFC 184,Rousey vs. Zingano,Ultimate Fighting Championship,Rousey,Zingano,0,Staples Center,"Los Angeles, California",16577.0,2675560.0,600000.0
+2015-03-14,UFC 185,Pettis vs. dos Anjos,Ultimate Fighting Championship,Pettis,dos Anjos,0,American Airlines Center,"Dallas, Texas",14298.0,2155630.0,310000.0
+2015-04-25,UFC 186,Johnson vs. Horiguchi,Ultimate Fighting Championship,Johnson,Horiguchi,0,Bell Centre,"Montreal, Quebec, Canada",10154.0,668000.0,125000.0
+2015-05-23,UFC 187,Johnson vs. Cormier,Ultimate Fighting Championship,Johnson,Cormier,0,MGM Grand Garden Arena,"Las Vegas, Nevada",12615.0,5189623.0,375000.0
+2015-06-13,UFC 188,Velasquez vs. Werdum,Ultimate Fighting Championship,Velasquez,Werdum,0,Arena Ciudad de México,"Mexico City, Mexico",21036.0,,300000.0
+2015-07-11,UFC 189,Mendes vs. McGregor,Ultimate Fighting Championship,Mendes,McGregor,0,MGM Grand Garden Arena,"Las Vegas, Nevada",16019.0,7201648.0,825000.0
+2015-08-01,UFC 190,Rousey vs. Correia,Ultimate Fighting Championship,Rousey,Correia,0,HSBC Arena,"Rio de Janeiro, Brazil",14723.0,,900000.0
+2015-09-05,UFC 191,Johnson vs Dodson 2,Ultimate Fighting Championship,Johnson,Dodson,1,MGM Grand Garden Arena,"Las Vegas, Nevada",10873.0,1362700.0,115000.0
+2015-10-03,UFC 192,Cormier vs. Gustafsson,Ultimate Fighting Championship,Cormier,Gustafsson,0,Toyota Center,"Houston, Texas",14622.0,1859000.0,250000.0
+2015-11-15,UFC 193,Rousey vs. Holm,Ultimate Fighting Championship,Rousey,Holm,0,Etihad Stadium,"Melbourne, Australia",56214.0,6800000.0,1100000.0
+2015-12-12,UFC 194,Aldo vs. McGregor,Ultimate Fighting Championship,Aldo,McGregor,0,MGM Grand Garden Arena,"Las Vegas, Nevada",16516.0,10006249.0,1200000.0
+2016-01-02,UFC 195,Lawler vs. Condit,Ultimate Fighting Championship,Lawler,Condit,0,MGM Grand Garden Arena,"Las Vegas, Nevada, U.S.",10300.0,2003986.0,300000.0
+2016-03-05,UFC 196,McGregor vs. Diaz,Ultimate Fighting Championship,McGregor,Diaz,0,MGM Grand Garden Arena,"Las Vegas, Nevada",14898.0,8100000.0,1317000.0
+2016-04-23,UFC 197,Jones vs. Saint Preux,Ultimate Fighting Championship,Jones,Saint Preux,0,MGM Grand Garden Arena,"Las Vegas, Nevada",11352.0,2300000.0,322000.0
+2016-05-14,UFC 198,Werdum vs. Miocic,Ultimate Fighting Championship,Werdum,Miocic,0,Arena da Baixada,"Curitiba, Brazil",45207.0,,217000.0
+2016-06-04,UFC 199,Rockhold vs. Bisping 2,Ultimate Fighting Championship,Rockhold,Bisping,1,The Forum,"Inglewood, California",15587.0,2168675.0,283000.0
+2016-07-09,UFC 200,Tate vs. Nunes,Ultimate Fighting Championship,Tate,Nunes,0,T-Mobile Arena,"Las Vegas, Nevada",18202.0,10700000.0,1009000.0
+2016-07-30,UFC 201,Lawler vs. Woodley,Ultimate Fighting Championship,Lawler,Woodley,0,Philips Arena,"Atlanta, Georgia",10240.0,1070000.0,240000.0
+2016-08-20,UFC 202,Diaz vs. McGregor 2,Ultimate Fighting Championship,Diaz,McGregor,1,T-Mobile Arena,"Las Vegas, Nevada",15539.0,7700810.0,1650000.0
+2016-09-10,UFC 203,Miocic vs. Overeem,Ultimate Fighting Championship,Miocic,Overeem,0,Quicken Loans Arena,"Cleveland, Ohio",18875.0,2600000.0,450000.0
+2016-10-08,UFC 204,Bisping vs Henderson 2,Ultimate Fighting Championship,Bisping,Henderson,1,Manchester Arena,"Manchester, England",16000.0,1960000.0,290000.0
+2016-11-12,UFC 205,Alvarez vs. McGregor,Ultimate Fighting Championship,Alvarez,McGregor,0,Madison Square Garden,"New York City, New York",20427.0,17700000.0,1300000.0
+2016-12-10,UFC 206,Holloway vs. Pettis,Ultimate Fighting Championship,Holloway,Pettis,0,Air Canada Centre,"Toronto, Ontario, Canada",18057.0,1843101.0,150000.0
+2016-12-30,UFC 207,Nunes vs. Rousey,Ultimate Fighting Championship,Nunes,Rousey,0,T-Mobile Arena,"Las Vegas, Nevada",18533.0,4750000.0,1100000.0
+2017-02-11,UFC 208,Holm vs. de Randamie,Ultimate Fighting Championship,Holm,de Randamie,0,Barclays Center,"Brooklyn, New York",15628.0,2275105.0,200000.0
+2017-03-04,UFC 209,Woodley vs. Thompson 2,Ultimate Fighting Championship,Woodley,Thompson,1,T-Mobile Arena,"Las Vegas, Nevada",13150.0,,300000.0
+2017-04-08,UFC 210,Cormier vs Johnson 2,Ultimate Fighting Championship,Cormier,Johnson,1,KeyBank Center,"Buffalo, New York",17110.0,2000000.0,300000.0
+2017-05-13,UFC 211,Miocic vs dos Santos 2,Ultimate Fighting Championship,Miocic,dos Santos,1,American Airlines Center,"Dallas, Texas",17834.0,2662645.0,300000.0
+2017-06-03,UFC 212,Aldo vs. Holloway,Ultimate Fighting Championship,Aldo,Holloway,0,Jeunesse Arena,"Rio de Janeiro, Brazil",15412.0,,200000.0
+2017-07-08,UFC 213,Romero vs. Whittaker,Ultimate Fighting Championship,Romero,Whittaker,0,T-Mobile Arena,"Las Vegas, Nevada",12834.0,2400000.0,150000.0
+2017-07-29,UFC 214,Cormier vs. Jones 2,Ultimate Fighting Championship,Cormier,Jones,1,Honda Center,"Anaheim, California",16610.0,2448870.0,860000.0
+2017-09-09,UFC 215,Nunes vs. Shevchenko 2,Ultimate Fighting Championship,Nunes,Shevchenko,1,Rogers Place,"Edmonton, Alberta, Canada",16232.0,2028307.0,100000.0
+2017-10-07,UFC 216,Ferguson vs. Lee,Ultimate Fighting Championship,Ferguson,Lee,0,T-Mobile Arena,"Las Vegas, Nevada",10638.0,677999.0,200000.0
+2017-11-04,UFC 217,Bisping vs. St-Pierre,Ultimate Fighting Championship,Bisping,St-Pierre,0,Madison Square Garden,"New York City, New York",18201.0,6200000.0,875000.0
+2017-12-02,UFC 218,Holloway vs. Aldo 2,Ultimate Fighting Championship,Holloway,Aldo,1,Little Caesars Arena,"Detroit, Michigan",17587.0,2000000.0,230000.0
+2017-12-30,UFC 219,Cyborg vs. Holm,Ultimate Fighting Championship,Cyborg,Holm,0,T-Mobile Arena,"Las Vegas, Nevada",13561.0,1760628.0,380000.0
+2018-01-20,UFC 220,Miocic vs. Ngannou,Ultimate Fighting Championship,Miocic,Ngannou,0,TD Garden,"Boston, Massachusetts",16015.0,2450000.0,380000.0
+2018-02-11,UFC 221,Romero vs. Rockhold,Ultimate Fighting Championship,Romero,Rockhold,0,Perth Arena,"Perth, Australia",12437.0,2810520.0,150000.0
+2018-03-03,UFC 222,Cyborg vs. Kunitskaya,Ultimate Fighting Championship,Cyborg,Kunitskaya,0,T-Mobile Arena,"Las Vegas, Nevada",12041.0,1367672.0,260000.0
+2018-04-07,UFC 223,Khabib vs. Iaquinta,Ultimate Fighting Championship,Khabib,Iaquinta,0,Barclays Center,"Brooklyn, New York",17026.0,3007108.0,350000.0
+2018-05-12,UFC 224,Nunes vs. Pennington,Ultimate Fighting Championship,Nunes,Pennington,0,Jeunesse Arena,"Rio de Janeiro, Brazil",10696.0,,85000.0
+2018-06-09,UFC 225,Whittaker vs. Romero 2,Ultimate Fighting Championship,Whittaker,Romero,1,United Center,"Chicago, Illinois",18117.0,2550000.0,250000.0
+2018-07-07,UFC 226,Miocic vs. Cormier,Ultimate Fighting Championship,Miocic,Cormier,0,T-Mobile Arena,"Paradise, Nevada",17464.0,5677238.0,380000.0
+2018-08-04,UFC 227,Dillashaw vs. Garbrandt 2,Ultimate Fighting Championship,Dillashaw,Garbrandt,1,Staples Center,"Los Angeles, California",17794.0,2850000.0,300000.0
+2018-09-08,UFC 228,Woodley vs. Till,Ultimate Fighting Championship,Woodley,Till,0,American Airlines Center,"Dallas, Texas",14073.0,1700000.0,130000.0
+2018-10-06,UFC 229,Khabib vs. McGregor,Ultimate Fighting Championship,Khabib,McGregor,0,T-Mobile Arena,"Paradise, Nevada",20034.0,17200000.0,2400000.0
+2018-11-03,UFC 230,Cormier vs. Lewis,Ultimate Fighting Championship,Cormier,Lewis,0,Madison Square Garden,"New York City, New York",,,
+2018-12-08,UFC 231,Holloway vs. Ortega,Ultimate Fighting Championship,Holloway,Ortega,0,Scotiabank Arena,"Toronto, Ontario, Canada",,,
+2018-12-29,UFC 232,Jess vs. Arran,Ultimate Fighting Championship,Jess,Arran,0,T-Mobile Arena,"Paradise, Nevada",,,
