@@ -11,3 +11,5 @@ A visual analysis of the UFC's Pay-Per-View buys. I scraped the dataset for this
 <img src="images\6.png"></img>
 <img src="images\7.png"></img>
 <img src="images\8.png"></img>
+<img src="images\9.png"></img>
+
