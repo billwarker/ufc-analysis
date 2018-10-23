@@ -1,5 +1,3 @@
-# ufc-analysis
-
 # UFC Pay-Per-View Analysis
 
 Over the past few years, I've become more and more of a fan of mixed martial arts and the UFC. From devestating knockout punches to devestating chokeholds to devestating arm bars, there's just a certain thrill in watching two people beat each other close to death. As one UFC commentator describes the sport, MMA is "high level problem-solving with dire physical consequences".
@@ -18,7 +16,7 @@ PIC
 
 Between 2008 and 2010, the median PPV buyrate was hovering closely around 500,000. PPV performance in these years seems pretty consistent, with each year having events that crack more than 1M PPV buys. From 2011 to 2014, the buyrate begins to slide down, culminating in its weakest median ever at 222,500 in 2014. During this period it appears that the UFC's appeal was slowly drifting to low performance (evidenced by the slowly tightening upper whiskers on the box plots); this all changes when the median buyrate skyrockets to its highest ever at 600,000 in 2015.
 
-2015 in my mind marks the beginning of a new era for the UFC, which defined by a clear dependance on a small number of superstar fighters (but mainly Conor McGregor). The volatility of this is clearly evident: after a strong 2015 and 2016, the buyrate loses most of its steam save for two massive outliers (one pictured here, one not). More on McGregor's impact to come.
+2015 in my mind marks the beginning of a new era for the UFC, defined by a clear dependance on a small number of superstar fighters (but mainly Conor McGregor). The volatility of this is clearly evident: after a strong 2015 and 2016, the buyrate loses most of its steam save for two massive outliers (the MayMac money fight in 2017 and UFC 229). More on McGregor's impact to come.
 
 <!-- <img src="images\1.png"></img> -->
 <img src="images\2.png"></img>
@@ -49,6 +47,22 @@ Second, seven of the top ten events all occurred after 2015 and into the present
 
 <img src="images\6.png"></img>
 <img src="images\7.png"></img>
+
+The barplot ranks all of the headline fighters by an estimate of their PPV buys they've brought in for the UFC (from 2008 to 2018). This estimate was calculated by averaging the PPV buyrates for each fighter based on the events they headlined, and multiplying it by the number of times they fought on cards as headline events. For example, although Eddie Alvarez's average as a headline event is over 1M+ PPV buys (due to facing Conor), he doesn't crack the top 20 in this list because he only headlined that single event.
+
+I think this method provides a decent ranking of each fighter's worth to the UFC. With five of his six headline events surpassing over a million PPV buys, Conor McGregor easily takes the top spot as the UFC's biggest PPV cash cow. His encounters with both Khabib Nurmagomedov and Nate Diaz have propelled the both of them into the top 20, with each earning a wider fanbase seemingly bonded in a fierce dislike of McGregor. 
+
+Georges St-Pierre, Jon Jones, and Anderson Silva, claim the next three spots due to their long, dominant runs as champions in their respective divisions. Following them are Ronda Rousey and Brock Lesnar, two (WWE) superstars who were able to bring in massive audiences with relatively less headline appearances.
+
+It seems to me that the greatest return-on-income for the UFC might come from the fighters on this list who have less appearances, and more potential to evolve into even greater superstars in the future. The fact that fighters like Conor, Ronda, and Lesnar can place so highly with a lower number of fights speaks to the power of superfights to bring in crazy amounts of views. Examples of this in my mind are Khabib and Nate, who have proven themselves to be stone cold killers in their boughts against Conor. The potential return of Brock Lesnar to face Daniel Cormier (or even Jon Jones in a super steroid heavyweight bought) would certainly bring in massive views as well.
+
+I would love to hear from others more informed than me on how accurate these PPV rankings seem, and if there's any way such a method for ranking these fighters could be improved!
+
 <img src="images\8.png"></img>
+
+Conor McGregor has justified his worth and clout many times throughout this analysis, so I think it's fitting to see how his PPV trajectory has grown over time. Conor is a true outlier in MMA, with an unprecedented rise in popularity over the span of only three years. With only a single headline fight bringing in less than a million PPVs, and a single slight dip in views with his fight against Eddie Alvarez at UFC 205, I think I can safely say that he's been carrying the UFC financially over the past few years.
+
+Conor's absence from the UFC in 2017 was severely felt in the company's cumulative PPV buys that year, but only because they invested so heavily in making the MayMac money fight the second most highly-viewed PPV event of all time. His fight against Khabib at UFC 229 surpassed his previous record rematching Nate Diaz at UFC 202 for the biggest UFC PPV event of all time.
+
 
 
