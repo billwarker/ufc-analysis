@@ -57,12 +57,3 @@ Georges St-Pierre, Jon Jones, and Anderson Silva, claim the next three spots due
 It seems to me that the greatest return-on-income for the UFC might come from the fighters on this list who have less appearances, and more potential to evolve into even greater superstars in the future. The fact that fighters like Conor, Ronda, and Lesnar can place so highly with a lower number of fights speaks to the power of superfights to bring in crazy amounts of views. Examples of this in my mind are Khabib and Nate, who have proven themselves to be stone cold killers in their boughts against Conor. The potential return of Brock Lesnar to face Daniel Cormier (or even Jon Jones in a super steroid heavyweight bought) would certainly bring in massive views as well.
 
 I would love to hear from others more informed than me on how accurate these PPV rankings seem, and if there's any way such a method for ranking these fighters could be improved!
-
-<img src="images\8.png"></img>
-
-Conor McGregor has justified his worth and clout many times throughout this analysis, so I think it's fitting to see how his PPV trajectory has grown over time. Conor is a true outlier in MMA, with an unprecedented rise in popularity over the span of only three years. With only a single headline fight bringing in less than a million PPVs, and a single slight dip in views with his fight against Eddie Alvarez at UFC 205, I think I can safely say that he's been carrying the UFC financially over the past few years.
-
-Conor's absence from the UFC in 2017 was severely felt in the company's cumulative PPV buys that year, but only because they invested so heavily in making the MayMac money fight the second most highly-viewed PPV event of all time. His fight against Khabib at UFC 229 surpassed his previous record rematching Nate Diaz at UFC 202 for the biggest UFC PPV event of all time.
-
-
-
