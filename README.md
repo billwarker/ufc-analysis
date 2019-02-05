@@ -9,10 +9,6 @@ In this exploratory analysis, my goal is to examine how the UFC's PPV sales have
 <br>
 <img src="images\0.png"></img>
 
-This is a boxplot visualizing the yearly distributions of PPV buyrates from 2008 - 2018. For those who aren't privy to how boxplots represent data, this diagram shows you all you need to know:
-
-PIC
-
 Between 2008 and 2010, the median PPV buyrate was hovering closely around 500,000. PPV performance in these years seems pretty consistent, with each year having events that crack more than 1M PPV buys. From 2011 to 2014, the buyrate begins to slide down, culminating in its weakest median ever at 222,500 in 2014. During this period it appears that the UFC's appeal was slowly drifting to low performance (evidenced by the slowly tightening upper whiskers on the box plots); this all changes when the median buyrate skyrockets to its highest ever at 600,000 in 2015.
 
 2015 in my mind marks the beginning of a new era for the UFC, defined by a clear dependance on a small number of superstar fighters (but mainly Conor McGregor). The volatility of this is clearly evident: after a strong 2015 and 2016, the buyrate loses most of its steam save for two massive outliers (the MayMac money fight in 2017 and UFC 229). More on McGregor's impact to come.
